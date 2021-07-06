@@ -62,16 +62,17 @@ body {
     color: #fff;
 }
 
-.team-btn {
+.takım {
     background-color: #333;
     color: #fff;
-    width: 110px;
-    height: auto;
+    width: 500px;
+    height: 500px;
+    text-decoration: none;
     margin-left: 580px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
-.team-btn:hover {
+.takım:hover {
     background-color: #fff;
     color: #000;
     transition: 300ms all;
